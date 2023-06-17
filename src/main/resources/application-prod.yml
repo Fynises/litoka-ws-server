@@ -1,0 +1,5 @@
+application:
+  api:
+    host: ${API_HOST}
+  websocket:
+    allowed-origin: ${WEBSOCKET_ALLOW_ORIGIN}

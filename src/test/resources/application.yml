@@ -1,0 +1,5 @@
+application:
+  api:
+    host: http://localhost:3010
+  websocket:
+    allowed-origin: http://localhost:3000
